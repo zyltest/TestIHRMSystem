@@ -1,0 +1,13 @@
+2020-03-26 14:17:04,112 INFO [root] [__init__.py(<module>:16)] - INFO Test --------------------------
+2020-03-26 14:17:04,388 INFO [root] [test_login_params.py(test01_login:30)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '1bffa6d2-237f-4afe-b29b-faa29d218bc6'}
+2020-03-26 14:17:04,475 INFO [root] [test_login_params.py(test01_login:30)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 14:17:04,558 INFO [root] [test_login_params.py(test01_login:30)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 14:17:04,640 INFO [root] [test_login_params.py(test01_login:30)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 14:17:04,727 INFO [root] [test_login_params.py(test01_login:30)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 14:17:04,813 INFO [root] [test_login_params.py(test01_login:30)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 14:17:04,902 INFO [root] [test_login_params.py(test01_login:30)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 14:17:04,989 INFO [root] [test_login_params.py(test01_login:30)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '1daa4dce-bdde-42e0-934e-40dcf2804b78'}
+2020-03-26 14:17:05,074 INFO [root] [test_login_params.py(test01_login:30)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 14:17:05,161 INFO [root] [test_login_params.py(test01_login:30)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 14:17:05,244 INFO [root] [test_login_params.py(test01_login:30)] - 登录的结果为：{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2020-03-26 14:17:05,329 INFO [root] [test_login_params.py(test01_login:30)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
